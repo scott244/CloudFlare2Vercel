@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://hexopp.cyfan.workers.dev/$1"}
+      {"src": "/(.*)","dest": "https://ipfs.infura.io:5001/$1"}
   ]
 }
