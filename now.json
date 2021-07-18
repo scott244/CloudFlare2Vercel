@@ -1,7 +1,0 @@
-{
- "name": "proxy",
- "version": 2,
- "routes": [
- {"src": "/(.*)","dest": "https://static-5beb8341-5afb-40fb-8aaa-4317df02ab4c.bspapp.com/"}
- ] 
-}
